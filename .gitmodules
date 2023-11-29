@@ -2,3 +2,7 @@
 	path = shiny-ssa23
 	url = git@github.com:mitchelloharawild/workshop-shiny-ssa23.git
 	branch = gh-pages
+[submodule "intermediate-shiny"]
+	path = intermediate-shiny
+	url = git@github.com:mitchelloharawild/workshop-shiny-intermediate.git
+	branch = gh-pages
