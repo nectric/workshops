@@ -1,0 +1,4 @@
+[submodule "shiny-ssa23"]
+	path = shiny-ssa23
+	url = git@github.com:mitchelloharawild/workshop-shiny-ssa23.git
+	branch = gh-pages
