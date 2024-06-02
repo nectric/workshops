@@ -6,3 +6,7 @@
 	path = intermediate-shiny
 	url = git@github.com:mitchelloharawild/workshop-shiny-intermediate.git
 	branch = gh-pages
+[submodule "user2024"]
+	path = user2024
+	url = git@github.com:mitchelloharawild/workshop-fable-user2024.git
+	branch = gh-pages
