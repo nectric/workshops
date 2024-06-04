@@ -10,3 +10,7 @@
 	path = user2024
 	url = git@github.com:mitchelloharawild/workshop-fable-user2024.git
 	branch = gh-pages
+[submodule "rmedicine2024"]
+	path = rmedicine2024
+	url = git@github.com:mitchelloharawild/workshop-r-medicine-2024.git
+	branch = gh-pages
