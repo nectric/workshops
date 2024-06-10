@@ -14,3 +14,7 @@
 	path = rmedicine2024
 	url = git@github.com:mitchelloharawild/workshop-r-medicine-2024.git
 	branch = gh-pages
+[submodule "f4sg-um6p"]
+	path = f4sg-um6p
+	url = git@github.com:mitchelloharawild/workshop-f4sg-um6p.git
+	branch = gh-pages
