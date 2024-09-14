@@ -22,3 +22,7 @@
 	path = shiny-wombat24
 	url = git@github.com:mitchelloharawild/workshop-shiny-wombat24.git
 	branch = gh-pages
+[submodule "advr-wombat24"]
+	path = advr-wombat24
+	url = git@github.com:mitchelloharawild/workshop-advr-wombat24.git
+	branch = gh-pages
