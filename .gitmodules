@@ -18,3 +18,7 @@
 	path = f4sg-um6p
 	url = git@github.com:mitchelloharawild/workshop-f4sg-um6p.git
 	branch = gh-pages
+[submodule "shiny-wombat24"]
+	path = shiny-wombat24
+	url = git@github.com:mitchelloharawild/workshop-shiny-wombat24.git
+	branch = gh-pages
