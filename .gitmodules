@@ -26,3 +26,7 @@
 	path = advr-wombat24
 	url = git@github.com:mitchelloharawild/workshop-advr-wombat24.git
 	branch = gh-pages
+[submodule "tidyfc2024"]
+	path = tidyfc2024
+	url = git@github.com:mitchelloharawild/workshop-tidyfc-2024.git
+	branch = gh-pages
