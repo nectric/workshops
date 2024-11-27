@@ -30,3 +30,7 @@
 	path = tidyfc2024
 	url = git@github.com:mitchelloharawild/workshop-tidyfc-2024.git
 	branch = gh-pages
+[submodule "isf2025"]
+	path = isf2025
+	url = git@github.com:mitchelloharawild/workshop-etsa-isf2025.git
+	branch = gh-pages
