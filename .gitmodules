@@ -34,3 +34,7 @@
 	path = isf2025
 	url = git@github.com:mitchelloharawild/workshop-etsa-isf2025.git
 	branch = gh-pages
+[submodule "fable-2025"]
+	path = fable-2025
+	url = git@github.com:mitchelloharawild/workshop-fable-2025.git
+	branch = gh-pages
