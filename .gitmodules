@@ -38,3 +38,7 @@
 	path = fable-2025
 	url = git@github.com:mitchelloharawild/workshop-fable-2025.git
 	branch = gh-pages
+[submodule "fable-wombat2025"]
+	path = fable-wombat2025
+	url = git@github.com:mitchelloharawild/workshop-fable-wombat2025.git
+	branch = gh-pages
