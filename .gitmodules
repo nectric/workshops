@@ -46,3 +46,7 @@
 	path = isf2026
 	url = git@github.com:mitchelloharawild/workshop-isf2026.git
 	branch = gh-pages
+[submodule "wombat2026"]
+	path = wombat2026
+	url = git@github.com:mitchelloharawild/workshop-etsa-wombat2026.git
+	branch = gh-pages
